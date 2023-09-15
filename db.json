@@ -1,0 +1,148 @@
+{
+  "superheros": [
+    {
+      "id": 1,
+      "first_name": "Goldina",
+      "last_name": "Kornilyev"
+    },
+    {
+      "id": 2,
+      "first_name": "Brandice",
+      "last_name": "Barnsley"
+    },
+    {
+      "id": 3,
+      "first_name": "Sol",
+      "last_name": "Swetman"
+    },
+    {
+      "id": 4,
+      "first_name": "Dunc",
+      "last_name": "Dexter"
+    },
+    {
+      "id": 5,
+      "first_name": "Ki",
+      "last_name": "Ahlf"
+    },
+    {
+      "id": 6,
+      "first_name": "Augustin",
+      "last_name": "Sepey"
+    },
+    {
+      "id": 7,
+      "first_name": "Jacinda",
+      "last_name": "Becerro"
+    },
+    {
+      "id": 8,
+      "first_name": "Nate",
+      "last_name": "Allworthy"
+    },
+    {
+      "id": 9,
+      "first_name": "Amos",
+      "last_name": "McGeachie"
+    },
+    {
+      "id": 10,
+      "first_name": "Sigismundo",
+      "last_name": "Ramel"
+    },
+    {
+      "id": 11,
+      "first_name": "mamad",
+      "last_name": "mirza"
+    },
+    {
+      "first_name": "hushang",
+      "last_name": "meykhosh",
+      "id": 12
+    },
+    {
+      "first_name": "shahram",
+      "last_name": "miri",
+      "id": 13
+    },
+    {
+      "first_name": "yakub",
+      "last_name": "ramsi",
+      "id": 14
+    },
+    {
+      "first_name": "faramarz",
+      "last_name": "shepuzi",
+      "id": 15
+    },
+    {
+      "first_name": "siamk",
+      "last_name": "keinouri",
+      "id": 16
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Jafer"
+    },
+    {
+      "id": 2,
+      "name": "Ali"
+    },
+    {
+      "id": 3,
+      "name": "Mohsen"
+    }
+  ],
+  "users": [
+    {
+      "id": "mamad@mamad.com",
+      "channelId": "mamadiani"
+    }
+  ],
+  "channels": [
+    {
+      "id": "mamadiani",
+      "tech": [
+        "python",
+        "javascript",
+        "cpp"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "color": "blue"
+    },
+    {
+      "id": 2,
+      "color": "red"
+    },
+    {
+      "id": 3,
+      "color": "green"
+    },
+    {
+      "id": 4,
+      "color": "purple"
+    },
+    {
+      "id": 5,
+      "color": "yellow"
+    },
+    {
+      "id": 6,
+      "color": "violet"
+    },
+    {
+      "id": 7,
+      "color": "gray"
+    },
+    {
+      "id": 8,
+      "color": "slate"
+    }
+  ]
+}
